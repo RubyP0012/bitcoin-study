@@ -1,58 +1,85 @@
 # bitcoin-study
-<!DOCTYPE HTML>
+
+
+<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>비트코인 공부노트</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet">
   <style>
     body {
-      margin: 0;
-      padding: 0;
+      font-family: 'Noto Sans KR', sans-serif;
       background-color: #121212;
       color: #ffffff;
-      font-family: 'Noto Sans KR', sans-serif;
+      margin: 0;
+      padding: 0;
     }
+
     header {
+      background-color: #1f1f1f;
+      padding: 20px;
       text-align: center;
-      padding: 2rem 1rem;
-      background-color: #1e1e1e;
       border-bottom: 1px solid #333;
     }
+
     header h1 {
-      font-size: 1.8rem;
       margin: 0;
+      font-size: 2rem;
     }
-    .container {
-      max-width: 800px;
+
+    main {
+      padding: 20px;
+      max-width: 900px;
       margin: 0 auto;
-      padding: 2rem 1rem;
     }
+
     .post {
-      background-color: #1e1e1e;
-      margin-bottom: 1.5rem;
-      padding: 1.5rem;
-      border-radius: 10px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+      margin-bottom: 40px;
+      border-bottom: 1px solid #444;
+      padding-bottom: 30px;
     }
+
     .post h2 {
-      margin-top: 0;
-      font-size: 1.4rem;
-      color: #ffcc00;
+      color: #00bcd4;
     }
-    .post p {
-      line-height: 1.6;
+
+    .video-wrapper {
+      position: relative;
+      padding-bottom: 56.25%;
+      height: 0;
+      overflow: hidden;
+      margin-bottom: 15px;
     }
+
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+
+    p {
+      line-height: 1.7;
+    }
+
     @media (max-width: 600px) {
+      header h1 {
+        font-size: 1.5rem;
+      }
+
       .post h2 {
         font-size: 1.2rem;
-      }
-      .post p {
-        font-size: 0.95rem;
       }
     }
   </style>
 </head>
+
+
+
 
   
 <body>
