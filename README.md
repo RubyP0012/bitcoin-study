@@ -63,6 +63,15 @@
 
     <div class="post">
      <h2>1. 비트코인, 도대체 어디에 쓸까?</h2>
+    
+
+<body>
+    <iframe width="560" height="315" src="https://youtu.be/YtaERuB_yCA?si=C06Ipj7HLy_WzL9L" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+
+
+
+
      <p>
 이 영상은 비트코인의 다양한 활용 방안에 대해 설명하며, 단순한 투자 수단을 넘어 실질적인 가치를 지닌 화폐로서의 가능성을 제시합니다. 특히, 국경을 넘나드는 자금 이동의 용이성, 인플레이션 헤지 수단으로서의 가치, 그리고 남는 전력을 금융화하는 혁신적인 활용 방안을 강조합니다. 궁극적으로 비트코인은 미래 시대에 필수적인 디지털 자산으로 자리매김할 것이라고 주장합니다.
 <br>
