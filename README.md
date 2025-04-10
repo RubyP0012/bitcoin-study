@@ -63,12 +63,10 @@
 
     <div class="post">
      <h2>1. 비트코인, 도대체 어디에 쓸까?</h2>
-    
 
-<body>
+
+
     <iframe width="560" height="315" src="https://youtu.be/YtaERuB_yCA?si=C06Ipj7HLy_WzL9L" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</body>
-
 
 
 
